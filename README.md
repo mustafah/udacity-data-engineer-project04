@@ -37,5 +37,5 @@ This project implements a star schema. `songplays` is the fact table in the data
 
 
 ## How to ?
-1. Add appropriate AWS Credentials and S3 output path in `environment.cfg`
+1. Add appropriate AWS Credentials and S3 input and output paths in `environment.cfg`
 3. Run `etl.py`
